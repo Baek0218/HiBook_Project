@@ -47,3 +47,4 @@
 3. Controller  
     - 컨트롤러 [MarketFrontController.java](https://github.com/MEMOZ00/Project_team2/blob/cafe24/teamProject/src/main/java/com/itwillbs/market/action/MarketFrontController.java)
 
+테스트용추가은숙
