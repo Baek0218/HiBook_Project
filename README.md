@@ -1,4 +1,4 @@
-# ◆ HiBook 중고책 거래 사이트 ◆
+# ◆ HiBook 중고도서 거래 사이트 ◆
 ![HiBook](images/Hibook_main.PNG)
 
 ## ◆ 호스팅 사이트 : http://itwillbs7.cafe24.com/teamProject/main.do ◆
