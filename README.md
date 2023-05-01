@@ -26,7 +26,7 @@
   
   * [게시판 DAO,DTO 파일 ](https://github.com/Baek0218/HiBook_Project/blob/cafe24/teamProject/src/main/java/com/itwillbs/board/db/)
 
-  * [댓글 JAVA 파일](https://github.com/Baek0218/HiBook_Project/blob/cafe24/teamProject/src/main/java/com/itwillbs//boardCommentaction/action)
+  * [댓글 JAVA 파일](https://github.com/Baek0218/HiBook_Project/blob/cafe24/teamProject/src/main/java/com/itwillbs//boardComment/action)
 
   * [댓글 DAO,DTO 파일 ](https://github.com/Baek0218/HiBook_Project/blob/cafe24/teamProject/src/main/java/com/itwillbs/boardComment/db/)
 
