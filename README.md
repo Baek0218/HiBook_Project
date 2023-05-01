@@ -1,5 +1,5 @@
 # HiBook 중고책 거래 사이트
-![HiBook](./images/Hibook_main.png)
+![HiBook](images/Hibook_main.PNG)
 
 ### 호스팅 사이트 : http://itwillbs7.cafe24.com/teamProject/main.do
 #### 1. 사용 툴 : eclipse, MySQL v8.0.17
